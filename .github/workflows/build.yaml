@@ -27,6 +27,9 @@ jobs:
       run: |
         python -m pip install -r requirements.txt
     - name: Update README
+      env:
+        BLOG_API_KEY: ${{ secrets.BLOG_API_KEY }}
+        BLOG_POST_ID: ${{ secrets.BLOG_POST_ID }}
       run: |-
         python build_readme.py
         cat README.md

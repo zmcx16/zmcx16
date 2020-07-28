@@ -2,7 +2,7 @@
 
 ## Blog Posts
 <!-- blog start -->
-* [\[OCR+即時翻譯\] Capture2Text 軟體推薦 - 玩Gal Game or 生肉漫神器](http://blog.zmcx16.moe/2020/07/ocr-capture2text-gal-game-or.html) - 2020-07-27
+* [\[OCR+即時翻譯\] Capture2Text 軟體推薦 - 玩Gal Game or 生肉漫神器](http://blog.zmcx16.moe/2020/07/ocr-capture2text-gal-game-or.html) - 2020-07-29
 * [MahoMangaDownloaderVer11.8更新](http://blog.zmcx16.moe/2020/07/mahomangadownloaderver118.html) - 2020-07-26
 * [MahoMangaDownloaderVer11.7更新](http://blog.zmcx16.moe/2020/07/mahomangadownloaderver117.html) - 2020-07-19
 * [MahoMangaDownloaderVer11.6 更新 (含Ver11.5)](http://blog.zmcx16.moe/2020/07/mahomangadownloaderver115.html) - 2020-07-10

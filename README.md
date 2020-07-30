@@ -13,6 +13,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[GitHub Profile\] 客製化自己的Github個人頁面](http://blog.zmcx16.moe/2020/07/github-profile-github.html) - 2020-07-31
 * [\[OCR+即時翻譯\] Capture2Text 軟體推薦 - 玩Gal Game or 生肉漫神器](http://blog.zmcx16.moe/2020/07/ocr-capture2text-gal-game-or.html) - 2020-07-29
 * [MahoMangaDownloaderVer11.8更新](http://blog.zmcx16.moe/2020/07/mahomangadownloaderver118.html) - 2020-07-26
 * [MahoMangaDownloaderVer11.7更新](http://blog.zmcx16.moe/2020/07/mahomangadownloaderver117.html) - 2020-07-19
@@ -22,7 +23,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [MahoMangaDownloaderVer11.4 更新](http://blog.zmcx16.moe/2020/06/mahomangadownloaderver114.html) - 2020-06-29
 * [\[超好懂商業入門系列\] 傾聽與溝通](http://blog.zmcx16.moe/2020/06/blog-post_28.html) - 2020-06-28
 * [\[超好懂商業入門系列\] 情緒管理](http://blog.zmcx16.moe/2020/06/blog-post_27.html) - 2020-06-27
-* [\[超好懂商業入門系列\] 金融概論](http://blog.zmcx16.moe/2020/06/blog-post_26.html) - 2020-06-27
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

@@ -13,6 +13,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [MahoMangaDownloaderVer11.9更新](http://blog.zmcx16.moe/2020/08/mahomangadownloaderver119.html) - 2020-08-23
 * [\[個人網站開發\] 新增個人投資頁面](http://blog.zmcx16.moe/2020/08/blog-post.html) - 2020-08-09
 * [\[GitHub Profile\] 客製化自己的Github個人頁面](http://blog.zmcx16.moe/2020/07/github-profile-github.html) - 2020-07-31
 * [\[OCR+即時翻譯\] Capture2Text 軟體推薦 - 玩Gal Game or 生肉漫神器](http://blog.zmcx16.moe/2020/07/ocr-capture2text-gal-game-or.html) - 2020-07-29
@@ -22,7 +23,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[讀書心得\] 老人詐欺：把老人當作目標，不僅是因為老人好騙。更是因為「那個世代」，壟斷最多財富](http://blog.zmcx16.moe/2020/07/blog-post_6.html) - 2020-07-06
 * [\[讀書心得\] 不踩雷投資法](http://blog.zmcx16.moe/2020/07/blog-post.html) - 2020-07-03
 * [MahoMangaDownloaderVer11.4 更新](http://blog.zmcx16.moe/2020/06/mahomangadownloaderver114.html) - 2020-06-29
-* [\[超好懂商業入門系列\] 傾聽與溝通](http://blog.zmcx16.moe/2020/06/blog-post_28.html) - 2020-06-28
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

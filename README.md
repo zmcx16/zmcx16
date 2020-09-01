@@ -13,6 +13,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[好書推薦\] 主力的思維：日本神之散戶cis，發一條推特就能撼動日經指數](http://blog.zmcx16.moe/2020/09/cis.html) - 2020-09-02
 * [\[技術雜談\] FB粉絲專頁機器人開發 - 股票抽籤小秘書 後續維護心得](http://blog.zmcx16.moe/2020/08/fb.html) - 2020-08-26
 * [MahoMangaDownloaderVer11.9更新](http://blog.zmcx16.moe/2020/08/mahomangadownloaderver119.html) - 2020-08-23
 * [\[個人網站開發\] 新增個人投資頁面](http://blog.zmcx16.moe/2020/08/blog-post.html) - 2020-08-09
@@ -22,7 +23,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [MahoMangaDownloaderVer11.7更新](http://blog.zmcx16.moe/2020/07/mahomangadownloaderver117.html) - 2020-07-19
 * [MahoMangaDownloaderVer11.6 更新 (含Ver11.5)](http://blog.zmcx16.moe/2020/07/mahomangadownloaderver115.html) - 2020-07-10
 * [\[讀書心得\] 老人詐欺：把老人當作目標，不僅是因為老人好騙。更是因為「那個世代」，壟斷最多財富](http://blog.zmcx16.moe/2020/07/blog-post_6.html) - 2020-07-06
-* [\[讀書心得\] 不踩雷投資法](http://blog.zmcx16.moe/2020/07/blog-post.html) - 2020-07-03
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

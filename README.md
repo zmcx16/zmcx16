@@ -13,6 +13,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[讀書心得\] 偉大的貪婪：金融強權華爾街崛起的大歷史，1653-2016年](http://blog.zmcx16.moe/2020/09/1653-2016.html) - 2020-09-10
 * [\[個人網站開發\] 個人投資頁面 - 新增個股新聞](http://blog.zmcx16.moe/2020/09/blog-post.html) - 2020-09-06
 * [\[Chrome Extensions\] 拍賣網小幫手 AuctionKira ](http://blog.zmcx16.moe/2020/09/chrome-extensions-auctionkira.html) - 2020-09-06
 * [\[好書推薦\] 主力的思維：日本神之散戶cis，發一條推特就能撼動日經指數](http://blog.zmcx16.moe/2020/09/cis.html) - 2020-09-02
@@ -22,7 +23,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[GitHub Profile\] 客製化自己的Github個人頁面](http://blog.zmcx16.moe/2020/07/github-profile-github.html) - 2020-07-31
 * [\[OCR+即時翻譯\] Capture2Text 軟體推薦 - 玩Gal Game or 生肉漫神器](http://blog.zmcx16.moe/2020/07/ocr-capture2text-gal-game-or.html) - 2020-07-29
 * [MahoMangaDownloaderVer11.8更新](http://blog.zmcx16.moe/2020/07/mahomangadownloaderver118.html) - 2020-07-26
-* [MahoMangaDownloaderVer11.7更新](http://blog.zmcx16.moe/2020/07/mahomangadownloaderver117.html) - 2020-07-19
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

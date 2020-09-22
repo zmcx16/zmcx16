@@ -13,6 +13,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[好書推薦\] 洞悉市場的人 - 量化交易之父吉姆．西蒙斯與文藝復興公司的故事](http://blog.zmcx16.moe/2020/09/blog-post_22.html) - 2020-09-22
 * [\[個人網站開發\] 個人投資頁面 - 新增公式頁面(凱利公式)](http://blog.zmcx16.moe/2020/09/blog-post_13.html) - 2020-09-13
 * [\[讀書心得\] 偉大的貪婪：金融強權華爾街崛起的大歷史，1653-2016年](http://blog.zmcx16.moe/2020/09/1653-2016.html) - 2020-09-10
 * [\[個人網站開發\] 個人投資頁面 - 新增個股新聞](http://blog.zmcx16.moe/2020/09/blog-post.html) - 2020-09-06
@@ -22,7 +23,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [MahoMangaDownloaderVer11.9更新](http://blog.zmcx16.moe/2020/08/mahomangadownloaderver119.html) - 2020-08-23
 * [\[個人網站開發\] 新增個人投資頁面](http://blog.zmcx16.moe/2020/08/blog-post.html) - 2020-08-09
 * [\[GitHub Profile\] 客製化自己的Github個人頁面](http://blog.zmcx16.moe/2020/07/github-profile-github.html) - 2020-07-31
-* [\[OCR+即時翻譯\] Capture2Text 軟體推薦 - 玩Gal Game or 生肉漫神器](http://blog.zmcx16.moe/2020/07/ocr-capture2text-gal-game-or.html) - 2020-07-29
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

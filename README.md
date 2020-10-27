@@ -13,6 +13,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [MahoMangaDownloaderVer12.5更新](http://blog.zmcx16.moe/2020/10/mahomangadownloaderver125.html) - 2020-10-27
 * [MahoMangaDownloaderVer12.4更新](http://blog.zmcx16.moe/2020/10/mahomangadownloaderver124.html) - 2020-10-24
 * [\[追加更新\] MahoMangaDownloader Ver12.3 & Ver12.2更新](http://blog.zmcx16.moe/2020/10/mahomangadownloaderver122.html) - 2020-10-06
 * [\[追加更新\] MahoMangaDownloaderVer12.1 & Ver12.0更新](http://blog.zmcx16.moe/2020/09/mahomangadownloaderver120.html) - 2020-09-29
@@ -22,7 +23,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[個人網站開發\] 個人投資頁面 - 新增個股新聞](http://blog.zmcx16.moe/2020/09/blog-post.html) - 2020-09-06
 * [\[Chrome Extensions\] 拍賣網小幫手 AuctionKira ](http://blog.zmcx16.moe/2020/09/chrome-extensions-auctionkira.html) - 2020-09-06
 * [\[好書推薦\] 主力的思維：日本神之散戶cis，發一條推特就能撼動日經指數](http://blog.zmcx16.moe/2020/09/cis.html) - 2020-09-02
-* [\[技術雜談\] FB粉絲專頁機器人開發 - 股票抽籤小秘書 後續維護心得](http://blog.zmcx16.moe/2020/08/fb.html) - 2020-08-26
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

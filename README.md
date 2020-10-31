@@ -13,16 +13,16 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[好書推薦 & 讀書心得\] 閃電崩盤 & 黑色優勢](http://blog.zmcx16.moe/2020/11/blog-post.html) - 2020-11-01
 * [MahoMangaDownloaderVer12.5更新](http://blog.zmcx16.moe/2020/10/mahomangadownloaderver125.html) - 2020-10-27
 * [MahoMangaDownloaderVer12.4更新](http://blog.zmcx16.moe/2020/10/mahomangadownloaderver124.html) - 2020-10-24
 * [\[追加更新\] MahoMangaDownloader Ver12.3 & Ver12.2更新](http://blog.zmcx16.moe/2020/10/mahomangadownloaderver122.html) - 2020-10-06
 * [\[追加更新\] MahoMangaDownloaderVer12.1 & Ver12.0更新](http://blog.zmcx16.moe/2020/09/mahomangadownloaderver120.html) - 2020-09-29
 * [\[好書推薦\] 洞悉市場的人 - 量化交易之父吉姆．西蒙斯與文藝復興公司的故事](http://blog.zmcx16.moe/2020/09/blog-post_22.html) - 2020-11-01
 * [\[個人網站開發\] 個人投資頁面 - 新增公式頁面(凱利公式)](http://blog.zmcx16.moe/2020/09/blog-post_13.html) - 2020-09-13
-* [\[讀書心得\] 偉大的貪婪：金融強權華爾街崛起的大歷史，1653-2016年](http://blog.zmcx16.moe/2020/09/1653-2016.html) - 2020-09-10
+* [\[讀書心得\] 偉大的貪婪：金融強權華爾街崛起的大歷史，1653-2016年](http://blog.zmcx16.moe/2020/09/1653-2016.html) - 2020-11-01
 * [\[個人網站開發\] 個人投資頁面 - 新增個股新聞](http://blog.zmcx16.moe/2020/09/blog-post.html) - 2020-09-06
 * [\[Chrome Extensions\] 拍賣網小幫手 AuctionKira ](http://blog.zmcx16.moe/2020/09/chrome-extensions-auctionkira.html) - 2020-09-06
-* [\[好書推薦\] 主力的思維：日本神之散戶cis，發一條推特就能撼動日經指數](http://blog.zmcx16.moe/2020/09/cis.html) - 2020-09-02
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

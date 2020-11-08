@@ -13,6 +13,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[美股API推薦\] finnhub.io介紹 - 美股即時股價API](http://blog.zmcx16.moe/2020/11/api-finnhubio-api.html) - 2020-11-08
 * [\[好書推薦\] 經營戰略全史 - 漫畫版](http://blog.zmcx16.moe/2020/11/blog-post_7.html) - 2020-11-07
 * [\[好書推薦 & 讀書心得\] 閃電崩盤 & 黑色優勢](http://blog.zmcx16.moe/2020/11/blog-post.html) - 2020-11-01
 * [MahoMangaDownloaderVer12.5更新](http://blog.zmcx16.moe/2020/10/mahomangadownloaderver125.html) - 2020-10-27
@@ -22,7 +23,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[好書推薦\] 洞悉市場的人 - 量化交易之父吉姆．西蒙斯與文藝復興公司的故事](http://blog.zmcx16.moe/2020/09/blog-post_22.html) - 2020-11-01
 * [\[個人網站開發\] 個人投資頁面 - 新增公式頁面(凱利公式)](http://blog.zmcx16.moe/2020/09/blog-post_13.html) - 2020-09-13
 * [\[讀書心得\] 偉大的貪婪：金融強權華爾街崛起的大歷史，1653-2016年](http://blog.zmcx16.moe/2020/09/1653-2016.html) - 2020-11-01
-* [\[個人網站開發\] 個人投資頁面 - 新增個股新聞](http://blog.zmcx16.moe/2020/09/blog-post.html) - 2020-09-06
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

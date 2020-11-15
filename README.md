@@ -13,7 +13,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
-* [\[重大更新\] MahoMangaDownloaderVer13.0更新](http://blog.zmcx16.moe/2020/11/mahomangadownloaderver130.html) - 2020-11-15
+* [\[重大更新\] MahoMangaDownloaderVer13.0 & Ver13.1更新](http://blog.zmcx16.moe/2020/11/mahomangadownloaderver130.html) - 2020-11-15
 * [\[個人網站開發\] 個人投資頁面 - 新增即時股價更新 (使用SignalR + finnhub.io資料源)](http://blog.zmcx16.moe/2020/11/signalr-finnhubio.html) - 2020-11-14
 * [\[美股API推薦\] finnhub.io介紹 - 美股即時股價API](http://blog.zmcx16.moe/2020/11/api-finnhubio-api.html) - 2020-11-08
 * [\[好書推薦\] 經營戰略全史 - 漫畫版](http://blog.zmcx16.moe/2020/11/blog-post_7.html) - 2020-11-07

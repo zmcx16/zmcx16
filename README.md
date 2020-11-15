@@ -13,6 +13,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[重大更新\] MahoMangaDownloaderVer13.0更新](http://blog.zmcx16.moe/2020/11/mahomangadownloaderver130.html) - 2020-11-15
 * [\[個人網站開發\] 個人投資頁面 - 新增即時股價更新 (使用SignalR + finnhub.io資料源)](http://blog.zmcx16.moe/2020/11/signalr-finnhubio.html) - 2020-11-14
 * [\[美股API推薦\] finnhub.io介紹 - 美股即時股價API](http://blog.zmcx16.moe/2020/11/api-finnhubio-api.html) - 2020-11-08
 * [\[好書推薦\] 經營戰略全史 - 漫畫版](http://blog.zmcx16.moe/2020/11/blog-post_7.html) - 2020-11-07
@@ -22,7 +23,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[追加更新\] MahoMangaDownloader Ver12.3 & Ver12.2更新](http://blog.zmcx16.moe/2020/10/mahomangadownloaderver122.html) - 2020-10-06
 * [\[追加更新\] MahoMangaDownloaderVer12.1 & Ver12.0更新](http://blog.zmcx16.moe/2020/09/mahomangadownloaderver120.html) - 2020-09-29
 * [\[好書推薦\] 洞悉市場的人 - 量化交易之父吉姆．西蒙斯與文藝復興公司的故事](http://blog.zmcx16.moe/2020/09/blog-post_22.html) - 2020-11-01
-* [\[個人網站開發\] 個人投資頁面 - 新增公式頁面(凱利公式)](http://blog.zmcx16.moe/2020/09/blog-post_13.html) - 2020-09-13
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

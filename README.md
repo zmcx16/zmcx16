@@ -13,6 +13,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[雲端服務\] 被ban ip又沒有穩定的proxy server怎麼辦?  用Azure Function自己架個代理伺服器吧](http://blog.zmcx16.moe/2020/11/ban-ipproxy-server-azure-function.html) - 2020-11-22
 * [\[重大更新\] MahoMangaDownloaderVer13.0 & Ver13.1更新](http://blog.zmcx16.moe/2020/11/mahomangadownloaderver130.html) - 2020-11-15
 * [\[個人網站開發\] 個人投資頁面 - 新增即時股價更新 (使用SignalR + finnhub.io資料源)](http://blog.zmcx16.moe/2020/11/signalr-finnhubio.html) - 2020-11-14
 * [\[美股API推薦\] finnhub.io介紹 - 美股即時股價API](http://blog.zmcx16.moe/2020/11/api-finnhubio-api.html) - 2020-11-08
@@ -22,7 +23,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [MahoMangaDownloaderVer12.4更新](http://blog.zmcx16.moe/2020/10/mahomangadownloaderver124.html) - 2020-10-24
 * [\[追加更新\] MahoMangaDownloader Ver12.3 & Ver12.2更新](http://blog.zmcx16.moe/2020/10/mahomangadownloaderver122.html) - 2020-10-06
 * [\[追加更新\] MahoMangaDownloaderVer12.1 & Ver12.0更新](http://blog.zmcx16.moe/2020/09/mahomangadownloaderver120.html) - 2020-09-29
-* [\[好書推薦\] 洞悉市場的人 - 量化交易之父吉姆．西蒙斯與文藝復興公司的故事](http://blog.zmcx16.moe/2020/09/blog-post_22.html) - 2020-11-01
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

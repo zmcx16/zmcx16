@@ -13,6 +13,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [MahoMangaDownloaderVer13.2更新](http://blog.zmcx16.moe/2020/12/mahomangadownloaderver132.html) - 2020-12-01
 * [\[網站開發\] 美股搜尋網站 (1) 後端程式開發 - 使用Azure Cosmos DB & Azure Function](http://blog.zmcx16.moe/2020/11/1-azure-cosmos-db-azure-function.html) - 2020-11-25
 * [\[雲端服務\] 被ban ip又沒有穩定的proxy server怎麼辦?  用Azure Function自己架個代理伺服器吧](http://blog.zmcx16.moe/2020/11/ban-ipproxy-server-azure-function.html) - 2020-11-22
 * [\[重大更新\] MahoMangaDownloaderVer13.0 & Ver13.1更新](http://blog.zmcx16.moe/2020/11/mahomangadownloaderver130.html) - 2020-11-15
@@ -22,7 +23,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[好書推薦 & 讀書心得\] 閃電崩盤 & 黑色優勢](http://blog.zmcx16.moe/2020/11/blog-post.html) - 2020-11-01
 * [MahoMangaDownloaderVer12.5更新](http://blog.zmcx16.moe/2020/10/mahomangadownloaderver125.html) - 2020-10-27
 * [MahoMangaDownloaderVer12.4更新](http://blog.zmcx16.moe/2020/10/mahomangadownloaderver124.html) - 2020-10-24
-* [\[追加更新\] MahoMangaDownloader Ver12.3 & Ver12.2更新](http://blog.zmcx16.moe/2020/10/mahomangadownloaderver122.html) - 2020-10-06
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

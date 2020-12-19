@@ -14,7 +14,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 ## Blog Posts
 <!-- blog start -->
 * [MahoMangaDownloaderVer13.2更新](http://blog.zmcx16.moe/2020/12/mahomangadownloaderver132.html) - 2020-12-01
-* [\[網站開發\] 美股搜尋網站 (1) 後端程式開發 - 使用Azure Cosmos DB & Azure Function](http://blog.zmcx16.moe/2020/11/1-azure-cosmos-db-azure-function.html) - 2020-11-25
+* [\[網站開發\] 美股搜尋網站 (1) 後端程式開發 - 使用Azure Cosmos DB & Azure Function](http://blog.zmcx16.moe/2020/11/1-azure-cosmos-db-azure-function.html) - 2020-12-19
 * [\[雲端服務\] 被ban ip又沒有穩定的proxy server怎麼辦?  用Azure Function自己架個代理伺服器吧](http://blog.zmcx16.moe/2020/11/ban-ipproxy-server-azure-function.html) - 2020-11-22
 * [\[重大更新\] MahoMangaDownloaderVer13.0 & Ver13.1更新](http://blog.zmcx16.moe/2020/11/mahomangadownloaderver130.html) - 2020-11-15
 * [\[個人網站開發\] 個人投資頁面 - 新增即時股價更新 (使用SignalR + finnhub.io資料源)](http://blog.zmcx16.moe/2020/11/signalr-finnhubio.html) - 2020-11-14

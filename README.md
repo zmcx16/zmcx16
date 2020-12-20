@@ -14,6 +14,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[網站開發\] 美股搜尋網站 Norn-StockScreener Ver1.0 Release](http://blog.zmcx16.moe/2020/12/norn-stockscreener-ver10-release.html) - 2020-12-20
 * [MahoMangaDownloaderVer13.3更新](http://blog.zmcx16.moe/2020/12/mahomangadownloaderver133.html) - 2020-12-19
 * [MahoMangaDownloaderVer13.2更新](http://blog.zmcx16.moe/2020/12/mahomangadownloaderver132.html) - 2020-12-01
 * [\[網站開發\] 美股搜尋網站 (1) 後端程式開發 - 使用Azure Cosmos DB & Azure Function](http://blog.zmcx16.moe/2020/11/1-azure-cosmos-db-azure-function.html) - 2020-12-19
@@ -23,7 +24,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[美股API推薦\] finnhub.io介紹 - 美股即時股價API](http://blog.zmcx16.moe/2020/11/api-finnhubio-api.html) - 2020-11-08
 * [\[好書推薦\] 經營戰略全史 - 漫畫版](http://blog.zmcx16.moe/2020/11/blog-post_7.html) - 2020-11-07
 * [\[好書推薦 & 讀書心得\] 閃電崩盤 & 黑色優勢](http://blog.zmcx16.moe/2020/11/blog-post.html) - 2020-11-01
-* [MahoMangaDownloaderVer12.5更新](http://blog.zmcx16.moe/2020/10/mahomangadownloaderver125.html) - 2020-10-27
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

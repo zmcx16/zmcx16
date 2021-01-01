@@ -14,6 +14,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [MahoMangaDownloaderVer13.4更新](http://blog.zmcx16.moe/2021/01/mahomangadownloaderver134.html) - 2021-01-02
 * [2020年投資績效](http://blog.zmcx16.moe/2020/12/2020.html) - 2020-12-26
 * [\[網站開發\] 美股搜尋網站 Norn-StockScreener 加入Cache改善查詢效能](http://blog.zmcx16.moe/2020/12/norn-stockscreener-cache.html) - 2020-12-25
 * [\[網站開發\] 美股搜尋網站 Norn-StockScreener Ver1.0 Release](http://blog.zmcx16.moe/2020/12/norn-stockscreener-ver10-release.html) - 2020-12-20
@@ -23,7 +24,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[雲端服務\] 被ban ip又沒有穩定的proxy server怎麼辦?  用Azure Function自己架個代理伺服器吧](http://blog.zmcx16.moe/2020/11/ban-ipproxy-server-azure-function.html) - 2020-11-22
 * [\[重大更新\] MahoMangaDownloaderVer13.0 & Ver13.1更新](http://blog.zmcx16.moe/2020/11/mahomangadownloaderver130.html) - 2020-11-15
 * [\[個人網站開發\] 個人投資頁面 - 新增即時股價更新 (使用SignalR + finnhub.io資料源)](http://blog.zmcx16.moe/2020/11/signalr-finnhubio.html) - 2020-11-14
-* [\[美股API推薦\] finnhub.io介紹 - 美股即時股價API](http://blog.zmcx16.moe/2020/11/api-finnhubio-api.html) - 2020-11-08
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

@@ -14,7 +14,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
-* [多因子交互選股模型 - 個人網站開發](http://blog.zmcx16.moe/2021/03/blog-post.html) - 2021-03-02
+* [多因子交互選股模型 - 個人網站開發](http://blog.zmcx16.moe/2021/03/blog-post.html) - 2021-03-03
 * [MahoMangaDownloaderVer13.9更新](http://blog.zmcx16.moe/2021/03/mahomangadownloaderver139.html) - 2021-03-01
 * [twitter-images-collector Ver1.4 release (追蹤&下載推特圖片)](http://blog.zmcx16.moe/2021/02/twitter-images-collector-release.html) - 2021-02-22
 * [MahoMangaDownloaderVer13.8更新](http://blog.zmcx16.moe/2021/02/mahomangadownloaderver138.html) - 2021-02-14

@@ -14,6 +14,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [MahoMangaDownloaderVer14.0更新](http://blog.zmcx16.moe/2021/03/mahomangadownloaderver140.html) - 2021-03-19
 * [\[網站開發\] 美股搜尋網站 Norn-StockScreener 新增多因子交互選股模型](http://blog.zmcx16.moe/2021/03/norn-stockscreener.html) - 2021-03-14
 * [多因子交互選股模型 - 個人網站開發](http://blog.zmcx16.moe/2021/03/blog-post.html) - 2021-03-03
 * [MahoMangaDownloaderVer13.9更新](http://blog.zmcx16.moe/2021/03/mahomangadownloaderver139.html) - 2021-03-01
@@ -23,7 +24,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[網站開發\] 美股搜尋網站 Norn-StockScreener 新增最近一, 二季EPS過濾條件(尋找轉虧為盈公司)](http://blog.zmcx16.moe/2021/02/norn-stockscreener-eps.html) - 2021-02-07
 * [MahoMangaDownloaderVer13.7更新](http://blog.zmcx16.moe/2021/02/mahomangadownloaderver137.html) - 2021-02-04
 * [Beneish Model - 一個簡單識別公司財務報表是否造假的公式](http://blog.zmcx16.moe/2021/01/beneish-model.html) - 2021-01-18
-* [MahoMangaDownloaderVer13.6更新](http://blog.zmcx16.moe/2021/01/mahomangadownloaderver136.html) - 2021-01-11
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

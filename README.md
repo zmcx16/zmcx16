@@ -14,6 +14,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[網站開發\] 多因子交互選股模型 - 新增內部人士 & 機構 持股比例&交易](http://blog.zmcx16.moe/2021/05/blog-post.html) - 2021-05-07
 * [\[好書推薦\] 快閃大對決：一場華爾街起義](http://blog.zmcx16.moe/2021/04/blog-post.html) - 2021-04-25
 * [\[好書推薦\] 反市場：JG股市操作原理](http://blog.zmcx16.moe/2021/04/jg.html) - 2021-04-24
 * [\[網站開發\] 多因子交互選股模型 - 新增自由現金流比 & 股息比權重](http://blog.zmcx16.moe/2021/03/blog-post_31.html) - 2021-03-31
@@ -23,7 +24,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [MahoMangaDownloaderVer13.9更新](http://blog.zmcx16.moe/2021/03/mahomangadownloaderver139.html) - 2021-03-01
 * [twitter-images-collector Ver1.4 release (追蹤&下載推特圖片)](http://blog.zmcx16.moe/2021/02/twitter-images-collector-release.html) - 2021-02-22
 * [MahoMangaDownloaderVer13.8更新](http://blog.zmcx16.moe/2021/02/mahomangadownloaderver138.html) - 2021-02-14
-* [\[漫畫+動畫推坑\] 我們大家的河合莊](http://blog.zmcx16.moe/2021/02/blog-post.html) - 2021-02-09
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

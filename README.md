@@ -14,8 +14,9 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[網站開發\] Industry頁面新增圖表, 多因子過濾新增空頭指標 - 美股搜尋網站 Norn-StockScreener ](http://blog.zmcx16.moe/2021/06/industry-norn-stockscreener.html) - 2021-06-06
 * [MahoMangaDownloaderVer14.2更新](http://blog.zmcx16.moe/2021/06/mahomangadownloaderver142.html) - 2021-06-05
-* [\[網站開發\] 新增Industry頁面 - 美股搜尋網站 Norn-StockScreener ](http://blog.zmcx16.moe/2021/05/industry-norn-stockscreener.html) - 2021-05-30
+* [\[網站開發\] 新增Industry頁面 - 美股搜尋網站 Norn-StockScreener ](http://blog.zmcx16.moe/2021/05/industry-norn-stockscreener.html) - 2021-06-06
 * [MahoMangaDownloaderVer14.1更新](http://blog.zmcx16.moe/2021/05/mahomangadownloaderver141.html) - 2021-05-23
 * [\[網站開發\] 新增產業過濾 - 美股搜尋網站 Norn-StockScreener ](http://blog.zmcx16.moe/2021/05/norn-stockscreener.html) - 2021-05-15
 * [\[網站開發\] 多因子交互選股模型 - 新增內部人士 & 機構 持股比例&交易](http://blog.zmcx16.moe/2021/05/blog-post.html) - 2021-05-07
@@ -23,7 +24,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[好書推薦\] 反市場：JG股市操作原理](http://blog.zmcx16.moe/2021/04/jg.html) - 2021-04-24
 * [\[網站開發\] 多因子交互選股模型 - 新增自由現金流比 & 股息比權重](http://blog.zmcx16.moe/2021/03/blog-post_31.html) - 2021-03-31
 * [MahoMangaDownloaderVer14.0更新](http://blog.zmcx16.moe/2021/03/mahomangadownloaderver140.html) - 2021-03-19
-* [\[網站開發\] 美股搜尋網站 Norn-StockScreener 新增多因子交互選股模型](http://blog.zmcx16.moe/2021/03/norn-stockscreener.html) - 2021-03-14
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

@@ -14,6 +14,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [MahoMangaDownloaderVer14.4更新](http://blog.zmcx16.moe/2021/06/mahomangadownloaderver144.html) - 2021-06-20
 * [\[網站開發\] Industry頁面新增各產業-市場指標 - 美股搜尋網站 Norn-StockScreener ](http://blog.zmcx16.moe/2021/06/industry-norn-stockscreener_13.html) - 2021-06-13
 * [MahoMangaDownloaderVer14.3更新](http://blog.zmcx16.moe/2021/06/mahomangadownloaderver143.html) - 2021-06-12
 * [\[網站開發\] Industry頁面新增圖表, 多因子過濾新增空頭指標 - 美股搜尋網站 Norn-StockScreener ](http://blog.zmcx16.moe/2021/06/industry-norn-stockscreener.html) - 2021-06-06
@@ -23,7 +24,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[網站開發\] 新增產業過濾 - 美股搜尋網站 Norn-StockScreener ](http://blog.zmcx16.moe/2021/05/norn-stockscreener.html) - 2021-05-15
 * [\[網站開發\] 多因子交互選股模型 - 新增內部人士 & 機構 持股比例&交易](http://blog.zmcx16.moe/2021/05/blog-post.html) - 2021-05-07
 * [\[好書推薦\] 快閃大對決：一場華爾街起義](http://blog.zmcx16.moe/2021/04/blog-post.html) - 2021-04-25
-* [\[好書推薦\] 反市場：JG股市操作原理](http://blog.zmcx16.moe/2021/04/jg.html) - 2021-04-24
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

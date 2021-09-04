@@ -14,6 +14,8 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[網站開發\] 新增Investment Gurus頁面 - 美股搜尋網站 Norn-StockScreener](http://blog.zmcx16.moe/2021/09/investment-gurus-norn-stockscreener.html) - 2021-09-05
+* [MahoMangaDownloaderVer14.8更新](http://blog.zmcx16.moe/2021/09/mahomangadownloaderver148.html) - 2021-09-05
 * [MahoMangaDownloaderVer14.7更新](http://blog.zmcx16.moe/2021/08/mahomangadownloaderver147.html) - 2021-08-28
 * [\[網站開發\] 新增Google Trend Stocks頁面 - 美股搜尋網站 Norn-StockScreener (8/22 updated)](http://blog.zmcx16.moe/2021/08/google-trend-stocks-norn-stockscreener.html) - 2021-08-22
 * [MahoMangaDownloaderVer14.6 & 14.5更新](http://blog.zmcx16.moe/2021/08/mahomangadownloaderver145.html) - 2021-08-02
@@ -22,8 +24,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [MahoMangaDownloaderVer14.4更新](http://blog.zmcx16.moe/2021/06/mahomangadownloaderver144.html) - 2021-06-20
 * [\[網站開發\] Industry頁面新增各產業-市場指標 - 美股搜尋網站 Norn-StockScreener ](http://blog.zmcx16.moe/2021/06/industry-norn-stockscreener_13.html) - 2021-06-13
 * [MahoMangaDownloaderVer14.3更新](http://blog.zmcx16.moe/2021/06/mahomangadownloaderver143.html) - 2021-06-12
-* [\[網站開發\] Industry頁面新增圖表, 多因子過濾新增空頭指標 - 美股搜尋網站 Norn-StockScreener ](http://blog.zmcx16.moe/2021/06/industry-norn-stockscreener.html) - 2021-06-06
-* [MahoMangaDownloaderVer14.2更新](http://blog.zmcx16.moe/2021/06/mahomangadownloaderver142.html) - 2021-06-05
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

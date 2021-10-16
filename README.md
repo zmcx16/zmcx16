@@ -14,7 +14,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
-* [\[網站開發\] 新增Industry Insiders頁面 - 美股搜尋網站 Norn-StockScreener](http://blog.zmcx16.moe/2021/10/industry-insiders-norn-stockscreener.html) - 2021-10-16
+* [\[網站開發\] 新增Industry Insiders頁面 - 美股搜尋網站 Norn-StockScreener](http://blog.zmcx16.moe/2021/10/industry-insiders-norn-stockscreener.html) - 2021-10-17
 * [MahoMangaDownloaderVer15.1更新](http://blog.zmcx16.moe/2021/10/mahomangadownloaderver151.html) - 2021-10-01
 * [MahoMangaDownloaderVer15.0更新](http://blog.zmcx16.moe/2021/09/mahomangadownloaderver150.html) - 2021-09-19
 * [MahoMangaDownloaderVer14.9更新](http://blog.zmcx16.moe/2021/09/mahomangadownloaderver149.html) - 2021-09-11

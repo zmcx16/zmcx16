@@ -14,6 +14,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [MahoMangaDownloaderVer15.3更新](http://blog.zmcx16.moe/2021/11/mahomangadownloaderver153.html) - 2021-11-07
 * [MahoMangaDownloaderVer15.2更新](http://blog.zmcx16.moe/2021/10/mahomangadownloaderver152.html) - 2021-10-30
 * [ReclassifyAnimeCG - 來用深度學習整理CG圖庫吧](http://blog.zmcx16.moe/2021/10/reclassifyanimecg-cg.html) - 2021-10-24
 * [\[網站開發\] 新增Industry Insiders頁面 - 美股搜尋網站 Norn-StockScreener](http://blog.zmcx16.moe/2021/10/industry-insiders-norn-stockscreener.html) - 2021-10-17
@@ -23,7 +24,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[網站開發\] 新增Investment Gurus頁面 - 美股搜尋網站 Norn-StockScreener](http://blog.zmcx16.moe/2021/09/investment-gurus-norn-stockscreener.html) - 2021-09-05
 * [MahoMangaDownloaderVer14.8更新](http://blog.zmcx16.moe/2021/09/mahomangadownloaderver148.html) - 2021-09-05
 * [MahoMangaDownloaderVer14.7更新](http://blog.zmcx16.moe/2021/08/mahomangadownloaderver147.html) - 2021-08-28
-* [\[網站開發\] 新增Google Trend Stocks頁面 - 美股搜尋網站 Norn-StockScreener (8/22 updated)](http://blog.zmcx16.moe/2021/08/google-trend-stocks-norn-stockscreener.html) - 2021-08-22
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

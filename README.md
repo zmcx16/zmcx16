@@ -14,6 +14,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [MahoMangaDownloaderVer15.4更新](http://blog.zmcx16.moe/2021/11/mahomangadownloaderver154.html) - 2021-11-20
 * [\[網站開發\] 選股器新增近N天最高價/最低價/最大量條件 - 美股搜尋網站 Norn-StockScreener](http://blog.zmcx16.moe/2021/11/n-norn-stockscreener.html) - 2021-11-07
 * [MahoMangaDownloaderVer15.3更新](http://blog.zmcx16.moe/2021/11/mahomangadownloaderver153.html) - 2021-11-07
 * [MahoMangaDownloaderVer15.2更新](http://blog.zmcx16.moe/2021/10/mahomangadownloaderver152.html) - 2021-10-30
@@ -23,7 +24,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [MahoMangaDownloaderVer15.0更新](http://blog.zmcx16.moe/2021/09/mahomangadownloaderver150.html) - 2021-09-19
 * [MahoMangaDownloaderVer14.9更新](http://blog.zmcx16.moe/2021/09/mahomangadownloaderver149.html) - 2021-09-11
 * [\[網站開發\] 新增Investment Gurus頁面 - 美股搜尋網站 Norn-StockScreener](http://blog.zmcx16.moe/2021/09/investment-gurus-norn-stockscreener.html) - 2021-09-05
-* [MahoMangaDownloaderVer14.8更新](http://blog.zmcx16.moe/2021/09/mahomangadownloaderver148.html) - 2021-09-05
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

@@ -15,6 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [Heroku的30秒Request Timeout限制 & workaround](http://blog.zmcx16.moe/2022/01/heroku30request-timeout-workaround.html) - 2022-01-09
 * [2021年投資績效](http://blog.zmcx16.moe/2022/01/2021.html) - 2022-01-01
 * [MahoMangaDownloaderVer15.5更新](http://blog.zmcx16.moe/2021/12/mahomangadownloaderver155.html) - 2021-12-30
 * [個人網站新增美股 / 市場指標預測頁面](http://blog.zmcx16.moe/2021/12/blog-post.html) - 2021-12-05
@@ -24,7 +25,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [MahoMangaDownloaderVer15.3更新](http://blog.zmcx16.moe/2021/11/mahomangadownloaderver153.html) - 2021-11-07
 * [MahoMangaDownloaderVer15.2更新](http://blog.zmcx16.moe/2021/10/mahomangadownloaderver152.html) - 2021-10-30
 * [ReclassifyAnimeCG - 來用深度學習整理CG圖庫吧](http://blog.zmcx16.moe/2021/10/reclassifyanimecg-cg.html) - 2021-10-24
-* [\[網站開發\] 新增Industry Insiders頁面 - 美股搜尋網站 Norn-StockScreener](http://blog.zmcx16.moe/2021/10/industry-insiders-norn-stockscreener.html) - 2021-10-17
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

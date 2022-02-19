@@ -15,6 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[網站開發\] 美股選擇權定價模型 - 新增風險係數 (希臘值)](http://blog.zmcx16.moe/2022/02/blog-post.html) - 2022-02-19
 * [MahoMangaDownloaderVer15.8更新](http://blog.zmcx16.moe/2022/02/mahomangadownloaderver158.html) - 2022-02-18
 * [MahoMangaDownloaderVer15.7更新](http://blog.zmcx16.moe/2022/02/mahomangadownloaderver157.html) - 2022-02-11
 * [\[網站開發\] 美股選擇權定價模型](http://blog.zmcx16.moe/2022/01/blog-post.html) - 2022-02-04
@@ -24,7 +25,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [MahoMangaDownloaderVer15.5更新](http://blog.zmcx16.moe/2021/12/mahomangadownloaderver155.html) - 2021-12-30
 * [個人網站新增美股 / 市場指標預測頁面](http://blog.zmcx16.moe/2021/12/blog-post.html) - 2022-02-04
 * [用FB Prophet預測美股未來行情](http://blog.zmcx16.moe/2021/11/fb-prophet.html) - 2022-02-04
-* [MahoMangaDownloaderVer15.4更新](http://blog.zmcx16.moe/2021/11/mahomangadownloaderver154.html) - 2021-11-20
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

@@ -15,7 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
-* [\[追加更新\] MahoMangaDownloaderVer15.9 & 16.0更新](http://blog.zmcx16.moe/2022/03/mahomangadownloaderver159.html) - 2022-03-06
+* [\[追加更新\] MahoMangaDownloaderVer15.9 & 16.0 & 16.1更新](http://blog.zmcx16.moe/2022/03/mahomangadownloaderver159.html) - 2022-03-09
 * [\[網站開發\] 美股選擇權定價模型 - 用蒙地卡羅模擬計算凱利公式](http://blog.zmcx16.moe/2022/02/blog-post_28.html) - 2022-02-28
 * [\[網站開發\] 美股選擇權定價模型 - 新增風險係數 (希臘值)](http://blog.zmcx16.moe/2022/02/blog-post.html) - 2022-02-19
 * [MahoMangaDownloaderVer15.8更新](http://blog.zmcx16.moe/2022/02/mahomangadownloaderver158.html) - 2022-02-18

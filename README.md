@@ -15,6 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [MahoMangaDownloaderVer16.2更新](http://blog.zmcx16.moe/2022/03/mahomangadownloaderver162.html) - 2022-03-18
 * [\[網站開發\] 新增美股蒙地卡羅股價模擬頁面](http://blog.zmcx16.moe/2022/03/blog-post.html) - 2022-03-11
 * [\[追加更新\] MahoMangaDownloaderVer15.9 & 16.0 & 16.1更新](http://blog.zmcx16.moe/2022/03/mahomangadownloaderver159.html) - 2022-03-09
 * [\[網站開發\] 美股選擇權定價模型 - 用蒙地卡羅模擬計算凱利公式](http://blog.zmcx16.moe/2022/02/blog-post_28.html) - 2022-02-28
@@ -24,7 +25,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[網站開發\] 美股選擇權定價模型](http://blog.zmcx16.moe/2022/01/blog-post.html) - 2022-02-04
 * [MahoMangaDownloaderVer15.6更新](http://blog.zmcx16.moe/2022/01/mahomangadownloaderver156.html) - 2022-01-21
 * [Heroku的30秒Request Timeout限制 & workaround](http://blog.zmcx16.moe/2022/01/heroku30request-timeout-workaround.html) - 2022-01-09
-* [2021年投資績效](http://blog.zmcx16.moe/2022/01/2021.html) - 2022-02-04
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

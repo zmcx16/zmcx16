@@ -15,6 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[網站開發\] 多因子交互選股模型 - 價值-績效乖離因子 - 新增股價區間因子(52W)](http://blog.zmcx16.moe/2022/03/52w.html) - 2022-03-26
 * [MahoMangaDownloaderVer16.2更新](http://blog.zmcx16.moe/2022/03/mahomangadownloaderver162.html) - 2022-03-18
 * [\[網站開發\] 新增美股蒙地卡羅股價模擬頁面](http://blog.zmcx16.moe/2022/03/blog-post.html) - 2022-03-11
 * [\[追加更新\] MahoMangaDownloaderVer15.9 & 16.0 & 16.1更新](http://blog.zmcx16.moe/2022/03/mahomangadownloaderver159.html) - 2022-03-09
@@ -24,7 +25,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [MahoMangaDownloaderVer15.7更新](http://blog.zmcx16.moe/2022/02/mahomangadownloaderver157.html) - 2022-02-11
 * [\[網站開發\] 美股選擇權定價模型](http://blog.zmcx16.moe/2022/01/blog-post.html) - 2022-02-04
 * [MahoMangaDownloaderVer15.6更新](http://blog.zmcx16.moe/2022/01/mahomangadownloaderver156.html) - 2022-01-21
-* [Heroku的30秒Request Timeout限制 & workaround](http://blog.zmcx16.moe/2022/01/heroku30request-timeout-workaround.html) - 2022-01-09
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

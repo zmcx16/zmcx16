@@ -15,6 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[網站開發\] 透過最有價值品牌尋找投資標的 (Norn-StockScreener 新增Ranking Indicators頁面)](http://blog.zmcx16.moe/2022/05/norn-stockscreener-ranking-indicator.html) - 2022-05-22
 * [MahoMangaDownloaderVer16.5更新](http://blog.zmcx16.moe/2022/05/mahomangadownloaderver165.html) - 2022-05-06
 * [MahoMangaDownloaderVer16.4更新](http://blog.zmcx16.moe/2022/04/mahomangadownloaderver164.html) - 2022-04-18
 * [\[網站開發\] Norn-StockScreener 新增在外流通股過濾條件 & 多因子交互選股模型因子參數](http://blog.zmcx16.moe/2022/04/norn-stockscreener.html) - 2022-04-16
@@ -24,7 +25,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[網站開發\] 新增美股蒙地卡羅股價模擬頁面](http://blog.zmcx16.moe/2022/03/blog-post.html) - 2022-03-11
 * [\[追加更新\] MahoMangaDownloaderVer15.9 & 16.0 & 16.1更新](http://blog.zmcx16.moe/2022/03/mahomangadownloaderver159.html) - 2022-03-09
 * [\[網站開發\] 美股選擇權定價模型 - 用蒙地卡羅模擬計算凱利公式](http://blog.zmcx16.moe/2022/02/blog-post_28.html) - 2022-02-28
-* [\[網站開發\] 美股選擇權定價模型 - 新增風險係數 (希臘值)](http://blog.zmcx16.moe/2022/02/blog-post.html) - 2022-02-19
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

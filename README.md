@@ -15,7 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
-* [MahoMangaDownloaderVer16.6更新](http://blog.zmcx16.moe/2022/07/mahomangadownloaderver166.html) - 2022-07-04
+* [MahoMangaDownloaderVer16.6 & 16.7更新](http://blog.zmcx16.moe/2022/07/mahomangadownloaderver166.html) - 2022-07-05
 * [\[網站開發\] 透過Clarivate百大創新機構報告尋找投資標的](http://blog.zmcx16.moe/2022/06/clarivate.html) - 2022-06-05
 * [\[網站開發\] 透過最有價值品牌尋找投資標的 (Norn-StockScreener 新增Ranking Indicators頁面)](http://blog.zmcx16.moe/2022/05/norn-stockscreener-ranking-indicator.html) - 2022-05-22
 * [MahoMangaDownloaderVer16.5更新](http://blog.zmcx16.moe/2022/05/mahomangadownloaderver165.html) - 2022-05-06

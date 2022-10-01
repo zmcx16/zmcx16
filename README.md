@@ -15,6 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[個人網站開發\] 新增持股相關企業-近期業績公布日資料](http://blog.zmcx16.moe/2022/10/blog-post.html) - 2022-10-02
 * [\[網站開發\] 美股選擇權定價模型 - 新增業績公佈日 / 除息日 / 行權機率](http://blog.zmcx16.moe/2022/09/blog-post.html) - 2022-09-24
 * [\[網站開發\] 美股選擇權定價模型 - 新增隱含波動率計算凱利公式](http://blog.zmcx16.moe/2022/08/blog-post.html) - 2022-08-28
 * [MahoMangaDownloaderVer16.8 & 16.9更新](http://blog.zmcx16.moe/2022/08/mahomangadownloaderver168.html) - 2022-08-18
@@ -24,7 +25,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [MahoMangaDownloaderVer16.5更新](http://blog.zmcx16.moe/2022/05/mahomangadownloaderver165.html) - 2022-05-06
 * [MahoMangaDownloaderVer16.4更新](http://blog.zmcx16.moe/2022/04/mahomangadownloaderver164.html) - 2022-04-18
 * [\[網站開發\] Norn-StockScreener 新增在外流通股過濾條件 & 多因子交互選股模型因子參數](http://blog.zmcx16.moe/2022/04/norn-stockscreener.html) - 2022-04-16
-* [MahoMangaDownloaderVer16.3更新](http://blog.zmcx16.moe/2022/04/mahomangadownloaderver163.html) - 2022-04-08
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

@@ -15,7 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
-* [MahoMangaDownloaderVer17.0 ~ 17.3更新](http://blog.zmcx16.moe/2022/10/mahomangadownloaderver170.html) - 2022-11-02
+* [MahoMangaDownloaderVer17.0 ~ 17.4更新](http://blog.zmcx16.moe/2022/10/mahomangadownloaderver170.html) - 2022-11-02
 * [\[個人網站開發\] 新增持股相關企業-近期業績公布日資料](http://blog.zmcx16.moe/2022/10/blog-post.html) - 2022-10-02
 * [\[網站開發\] 美股選擇權定價模型 - 新增業績公佈日 / 除息日 / 行權機率](http://blog.zmcx16.moe/2022/09/blog-post.html) - 2022-09-24
 * [\[網站開發\] 美股選擇權定價模型 - 新增隱含波動率計算凱利公式](http://blog.zmcx16.moe/2022/08/blog-post.html) - 2022-08-28

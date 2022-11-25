@@ -17,7 +17,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 <!-- blog start -->
 * [資金管理策略研究 - 馬丁格爾法 vs 反馬丁格爾法](http://blog.zmcx16.moe/2022/11/vs.html) - 2022-11-25
 * [\[網站開發\] 2022年最有價值品牌 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2022/11/2022-norn-stockscreener.html) - 2022-11-05
-* [MahoMangaDownloaderVer17.0 ~ 17.5更新](http://blog.zmcx16.moe/2022/10/mahomangadownloaderver170.html) - 2022-11-06
+* [MahoMangaDownloaderVer17.0 ~ 17.6更新](http://blog.zmcx16.moe/2022/10/mahomangadownloaderver170.html) - 2022-11-25
 * [\[個人網站開發\] 新增持股相關企業-近期業績公布日資料](http://blog.zmcx16.moe/2022/10/blog-post.html) - 2022-10-02
 * [\[網站開發\] 美股選擇權定價模型 - 新增業績公佈日 / 除息日 / 行權機率](http://blog.zmcx16.moe/2022/09/blog-post.html) - 2022-09-24
 * [\[網站開發\] 美股選擇權定價模型 - 新增隱含波動率計算凱利公式](http://blog.zmcx16.moe/2022/08/blog-post.html) - 2022-08-28

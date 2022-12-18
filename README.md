@@ -15,6 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[網站開發\] 新增ESG排行頁面 & 搜尋過濾條件 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2022/12/esg-norn-stockscreener.html) - 2022-12-19
 * [資金管理策略研究 - 馬丁格爾法 vs 反馬丁格爾法](http://blog.zmcx16.moe/2022/11/vs.html) - 2022-11-25
 * [\[網站開發\] 2022年最有價值品牌 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2022/11/2022-norn-stockscreener.html) - 2022-11-05
 * [MahoMangaDownloaderVer17.0 ~ 17.6更新](http://blog.zmcx16.moe/2022/10/mahomangadownloaderver170.html) - 2022-11-25
@@ -24,7 +25,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [MahoMangaDownloaderVer16.8 & 16.9更新](http://blog.zmcx16.moe/2022/08/mahomangadownloaderver168.html) - 2022-08-18
 * [MahoMangaDownloaderVer16.6 & 16.7更新](http://blog.zmcx16.moe/2022/07/mahomangadownloaderver166.html) - 2022-07-05
 * [\[網站開發\] 透過Clarivate百大創新機構報告尋找投資標的](http://blog.zmcx16.moe/2022/06/clarivate.html) - 2022-06-05
-* [\[網站開發\] 透過最有價值品牌尋找投資標的 (Norn-StockScreener 新增Ranking Indicators頁面)](http://blog.zmcx16.moe/2022/05/norn-stockscreener-ranking-indicator.html) - 2022-05-22
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

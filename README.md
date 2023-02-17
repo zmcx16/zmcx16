@@ -17,7 +17,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 <!-- blog start -->
 * [\[網站開發\] 新增Yahoo財經分析師評分排行頁面 & 搜尋過濾條件 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/02/yahoo-norn-stockscreener.html) - 2023-02-10
 * [\[網站開發\] 2022年Gartner全球供應鏈Top50 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/01/2022gartnertop50-norn-stockscreener.html) - 2023-01-14
-* [MahoMangaDownloaderVer17.7~17.9更新](http://blog.zmcx16.moe/2023/01/mahomangadownloaderver177.html) - 2023-01-29
+* [MahoMangaDownloaderVer17.7~18.0更新](http://blog.zmcx16.moe/2023/01/mahomangadownloaderver177.html) - 2023-02-18
 * [2022投資績效](http://blog.zmcx16.moe/2022/12/2022.html) - 2023-01-14
 * [\[網站開發\] 新增ESG排行頁面 & 搜尋過濾條件 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2022/12/esg-norn-stockscreener.html) - 2022-12-19
 * [資金管理策略研究 - 馬丁格爾法 vs 反馬丁格爾法](http://blog.zmcx16.moe/2022/11/vs.html) - 2022-11-25

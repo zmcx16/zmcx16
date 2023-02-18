@@ -15,6 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[網站開發\] 2023年Clarivate百大創新機構 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/02/2023clarivate-norn-stockscreener.html) - 2023-02-18
 * [\[網站開發\] 新增Yahoo財經分析師評分排行頁面 & 搜尋過濾條件 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/02/yahoo-norn-stockscreener.html) - 2023-02-10
 * [\[網站開發\] 2022年Gartner全球供應鏈Top50 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/01/2022gartnertop50-norn-stockscreener.html) - 2023-01-14
 * [MahoMangaDownloaderVer17.7~18.0更新](http://blog.zmcx16.moe/2023/01/mahomangadownloaderver177.html) - 2023-02-18
@@ -24,7 +25,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[網站開發\] 2022年最有價值品牌 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2022/11/2022-norn-stockscreener.html) - 2022-11-05
 * [MahoMangaDownloaderVer17.0 ~ 17.6更新](http://blog.zmcx16.moe/2022/10/mahomangadownloaderver170.html) - 2022-11-25
 * [\[個人網站開發\] 新增持股相關企業-近期業績公布日資料](http://blog.zmcx16.moe/2022/10/blog-post.html) - 2022-10-02
-* [\[網站開發\] 美股選擇權定價模型 - 新增業績公佈日 / 除息日 / 行權機率](http://blog.zmcx16.moe/2022/09/blog-post.html) - 2022-09-24
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

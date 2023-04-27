@@ -15,6 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[網站開發\] 新增美股投資檢查清單頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/04/norn-stockscreener.html) - 2023-04-28
 * [\[網站開發\] 新增Yahoo財經盈餘成長排行頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/04/yahoo-norn-stockscreener.html) - 2023-04-05
 * [\[心得\] 標的高Short Float與選擇權價格關係](http://blog.zmcx16.moe/2023/02/short-float.html) - 2023-02-18
 * [\[網站開發\] 2023年Clarivate百大創新機構 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/02/2023clarivate-norn-stockscreener.html) - 2023-02-18
@@ -24,7 +25,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [2022投資績效](http://blog.zmcx16.moe/2022/12/2022.html) - 2023-01-14
 * [\[網站開發\] 新增ESG排行頁面 & 搜尋過濾條件 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2022/12/esg-norn-stockscreener.html) - 2022-12-19
 * [資金管理策略研究 - 馬丁格爾法 vs 反馬丁格爾法](http://blog.zmcx16.moe/2022/11/vs.html) - 2022-11-25
-* [\[網站開發\] 2022年最有價值品牌 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2022/11/2022-norn-stockscreener.html) - 2022-11-05
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

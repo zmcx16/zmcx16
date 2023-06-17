@@ -15,6 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[網站開發\] 新增ESG歷史資料整理頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/06/esg-norn-stockscreener.html) - 2023-06-18
 * [\[網站開發\] 新增美股空頭資料歷史整理頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/05/norn-stockscreener.html) - 2023-05-12
 * [MahoMangaDownloaderVer18.3~18.5更新](http://blog.zmcx16.moe/2023/05/mahomangadownloaderver183.html) - 2023-06-03
 * [\[網站開發\] 新增美股投資檢查清單頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/04/norn-stockscreener.html) - 2023-04-28
@@ -24,7 +25,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[網站開發\] 新增Yahoo財經分析師評分排行頁面 & 搜尋過濾條件 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/02/yahoo-norn-stockscreener.html) - 2023-02-10
 * [\[網站開發\] 2022年Gartner全球供應鏈Top50 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/01/2022gartnertop50-norn-stockscreener.html) - 2023-01-14
 * [MahoMangaDownloaderVer17.7~18.2更新 \[Warning: Win7 / 8.1 end of support\]](http://blog.zmcx16.moe/2023/01/mahomangadownloaderver177.html) - 2023-03-19
-* [2022投資績效](http://blog.zmcx16.moe/2022/12/2022.html) - 2023-01-14
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

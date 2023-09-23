@@ -15,6 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[LeetCode\] LeetCode解題&自動驗證程式 leetcode-solver-bot-verify-tool](http://blog.zmcx16.moe/2023/09/leetcode-leetcode-leetcode-solver-bot.html) - 2023-09-23
 * [\[網站開發\] 新增美股員工人數成長排行頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/07/norn-stockscreener_30.html) - 2023-07-30
 * [\[網站開發\] 新增美股股息冠軍頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/07/norn-stockscreener.html) - 2023-07-22
 * [\[網站開發\] 新增ESG歷史資料整理頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/06/esg-norn-stockscreener.html) - 2023-06-18
@@ -24,7 +25,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[網站開發\] 新增Yahoo財經盈餘成長排行頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/04/yahoo-norn-stockscreener.html) - 2023-04-05
 * [\[心得\] 標的高Short Float與選擇權價格關係](http://blog.zmcx16.moe/2023/02/short-float.html) - 2023-02-18
 * [\[網站開發\] 2023年Clarivate百大創新機構 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/02/2023clarivate-norn-stockscreener.html) - 2023-02-18
-* [\[網站開發\] 新增Yahoo財經分析師評分排行頁面 & 搜尋過濾條件 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/02/yahoo-norn-stockscreener.html) - 2023-02-10
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

@@ -15,6 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[manga-image-translator\] 自動翻譯漫畫的工具程式](http://blog.zmcx16.moe/2023/10/manga-image-translator.html) - 2023-10-21
 * [\[網站開發\] 新增選擇權Put-Call Ratio整理頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/09/put-call-ratio-norn-stockscreener.html) - 2023-09-30
 * [\[LeetCode\] LeetCode解題&自動驗證程式 leetcode-solver-bot-verify-tool](http://blog.zmcx16.moe/2023/09/leetcode-leetcode-leetcode-solver-bot.html) - 2023-09-26
 * [\[網站開發\] 新增美股員工人數成長排行頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/07/norn-stockscreener_30.html) - 2023-07-30
@@ -24,7 +25,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [MahoMangaDownloaderVer18.3~18.9更新](http://blog.zmcx16.moe/2023/05/mahomangadownloaderver183.html) - 2023-10-21
 * [\[網站開發\] 新增美股投資檢查清單頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/04/norn-stockscreener.html) - 2023-04-28
 * [\[網站開發\] 新增Yahoo財經盈餘成長排行頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/04/yahoo-norn-stockscreener.html) - 2023-04-05
-* [\[心得\] 標的高Short Float與選擇權價格關係](http://blog.zmcx16.moe/2023/02/short-float.html) - 2023-02-18
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

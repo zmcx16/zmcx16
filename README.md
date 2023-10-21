@@ -21,7 +21,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[網站開發\] 新增美股股息冠軍頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/07/norn-stockscreener.html) - 2023-07-22
 * [\[網站開發\] 新增ESG歷史資料整理頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/06/esg-norn-stockscreener.html) - 2023-06-18
 * [\[網站開發\] 新增美股空頭資料歷史整理頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/05/norn-stockscreener.html) - 2023-05-12
-* [MahoMangaDownloaderVer18.3~18.8更新](http://blog.zmcx16.moe/2023/05/mahomangadownloaderver183.html) - 2023-10-21
+* [MahoMangaDownloaderVer18.3~18.9更新](http://blog.zmcx16.moe/2023/05/mahomangadownloaderver183.html) - 2023-10-21
 * [\[網站開發\] 新增美股投資檢查清單頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/04/norn-stockscreener.html) - 2023-04-28
 * [\[網站開發\] 新增Yahoo財經盈餘成長排行頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/04/yahoo-norn-stockscreener.html) - 2023-04-05
 * [\[心得\] 標的高Short Float與選擇權價格關係](http://blog.zmcx16.moe/2023/02/short-float.html) - 2023-02-18

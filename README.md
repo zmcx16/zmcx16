@@ -15,6 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [MahoMangaDownloaderVer19.6更新](http://blog.zmcx16.moe/2023/12/mahomangadownloaderver196.html) - 2023-12-11
 * [MahoMangaDownloaderVer19.3~19.5更新](http://blog.zmcx16.moe/2023/11/mahomangadownloaderver193.html) - 2023-11-29
 * [\[manga-image-translator\] 自動翻譯漫畫的工具程式](http://blog.zmcx16.moe/2023/10/manga-image-translator.html) - 2023-10-21
 * [\[網站開發\] 新增選擇權Put-Call Ratio整理頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/09/put-call-ratio-norn-stockscreener.html) - 2023-09-30
@@ -24,7 +25,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[網站開發\] 新增ESG歷史資料整理頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/06/esg-norn-stockscreener.html) - 2023-06-18
 * [\[網站開發\] 新增美股空頭資料歷史整理頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/05/norn-stockscreener.html) - 2023-05-12
 * [MahoMangaDownloaderVer18.3~19.2更新](http://blog.zmcx16.moe/2023/05/mahomangadownloaderver183.html) - 2023-10-29
-* [\[網站開發\] 新增美股投資檢查清單頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/04/norn-stockscreener.html) - 2023-04-28
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

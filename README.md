@@ -15,6 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [MongoDB Atlas Auto-Scaling的神奇事](http://blog.zmcx16.moe/2024/01/mongodb-atlas-auto-scaling.html) - 2024-01-25
 * [2023投資績效報告](http://blog.zmcx16.moe/2023/12/2023.html) - 2023-12-30
 * [MahoMangaDownloaderVer19.6更新](http://blog.zmcx16.moe/2023/12/mahomangadownloaderver196.html) - 2023-12-18
 * [MahoMangaDownloaderVer19.3~19.5更新](http://blog.zmcx16.moe/2023/11/mahomangadownloaderver193.html) - 2023-11-29
@@ -24,7 +25,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[網站開發\] 新增美股員工人數成長排行頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/07/norn-stockscreener_30.html) - 2023-07-30
 * [\[網站開發\] 新增美股股息冠軍頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/07/norn-stockscreener.html) - 2023-07-22
 * [\[網站開發\] 新增ESG歷史資料整理頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/06/esg-norn-stockscreener.html) - 2023-06-18
-* [\[網站開發\] 新增美股空頭資料歷史整理頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2023/05/norn-stockscreener.html) - 2023-05-12
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)

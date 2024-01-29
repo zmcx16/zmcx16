@@ -15,7 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
-* [MongoDB Atlas Auto-Scaling的神奇事](http://blog.zmcx16.moe/2024/01/mongodb-atlas-auto-scaling.html) - 2024-01-25
+* [MongoDB Atlas Auto-Scaling的神奇事](http://blog.zmcx16.moe/2024/01/mongodb-atlas-auto-scaling.html) - 2024-01-29
 * [2023投資績效報告](http://blog.zmcx16.moe/2023/12/2023.html) - 2023-12-30
 * [MahoMangaDownloaderVer19.6~19.7更新](http://blog.zmcx16.moe/2023/12/mahomangadownloaderver196.html) - 2024-01-28
 * [MahoMangaDownloaderVer19.3~19.5更新](http://blog.zmcx16.moe/2023/11/mahomangadownloaderver193.html) - 2023-11-29

@@ -15,7 +15,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
-* [\[網站開發\] 新增GPT投資助手頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2024/10/gpt-norn-stockscreener.html) - 2024-10-08
+* [\[網站開發\] 新增GPT投資助手頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2024/10/gpt-norn-stockscreener.html) - 2024-10-09
 * [\[網站開發\] 新增美股產業同業比較分析頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2024/05/norn-stockscreener.html) - 2024-05-15
 * [\[網站開發\] 新增班佛定律頁面檢測美股財報 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2024/02/norn-stockscreener.html) - 2024-02-28
 * [\[網站開發\] 2023年最有價值品牌 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2024/02/2023-norn-stockscreener.html) - 2024-02-18

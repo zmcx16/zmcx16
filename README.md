@@ -23,7 +23,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[網站開發\] 2023年最有價值品牌 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2024/02/2023-norn-stockscreener.html) - 2024-02-18
 * [MongoDB Atlas Auto-Scaling的神奇事](http://blog.zmcx16.moe/2024/01/mongodb-atlas-auto-scaling.html) - 2024-01-29
 * [2023投資績效報告](http://blog.zmcx16.moe/2023/12/2023.html) - 2023-12-30
-* [MahoMangaDownloaderVer19.6~21.3更新](http://blog.zmcx16.moe/2023/12/mahomangadownloaderver196.html) - 2025-03-22
+* [MahoMangaDownloaderVer19.6~21.4更新](http://blog.zmcx16.moe/2023/12/mahomangadownloaderver196.html) - 2025-03-24
 * [MahoMangaDownloaderVer19.3~19.5更新](http://blog.zmcx16.moe/2023/11/mahomangadownloaderver193.html) - 2023-11-29
 
 <!-- blog end -->

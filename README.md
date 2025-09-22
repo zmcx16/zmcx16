@@ -14,6 +14,7 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 
 ## Blog Posts
 <!-- blog start -->
+* [\[Investment Think Tank\] Portfolio Analysis Tool - 資產配置分析工具](http://blog.zmcx16.moe/2025/09/investment-think-tank-portfolio.html) - 2025-09-23
 * [\[Azure\] Azure function bandwidth暴增的故事](http://blog.zmcx16.moe/2025/05/azure-azure-function-bandwidth.html) - 2025-05-27
 * [2024投資績效報告](http://blog.zmcx16.moe/2025/01/2024.html) - 2025-01-01
 * [\[網站開發\] 新增GPT投資助手美股選擇權估值分析頁面 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2024/10/gpt-norn-stockscreener_20.html) - 2024-10-20
@@ -23,7 +24,6 @@ Reach Me                 | [![Twitter Badge](https://img.shields.io/badge/-zmcx1
 * [\[網站開發\] 2023年最有價值品牌 (Norn-StockScreener投資網站開發)](http://blog.zmcx16.moe/2024/02/2023-norn-stockscreener.html) - 2024-02-18
 * [MongoDB Atlas Auto-Scaling的神奇事](http://blog.zmcx16.moe/2024/01/mongodb-atlas-auto-scaling.html) - 2024-01-29
 * [2023投資績效報告](http://blog.zmcx16.moe/2023/12/2023.html) - 2023-12-30
-* [MahoMangaDownloaderVer19.6~21.6更新](http://blog.zmcx16.moe/2023/12/mahomangadownloaderver196.html) - 2025-05-23
 
 <!-- blog end -->
 More on [blog.zmcx16.moe](https://blog.zmcx16.moe/)
